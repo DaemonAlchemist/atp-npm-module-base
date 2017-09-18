@@ -38,3 +38,4 @@ Push all code changes, create new tag, and publish new NPM version (with and wit
 - Transpiling with Babel
 - Testing with Mocha/Chai
 - Prebuilt scripts for compiling, testing, tagging, and publishing
+- Automatic Semantic Versioning
