@@ -9,16 +9,24 @@ This module provides a quick-start boilerplate for creating an NPM module.
 
 # Usage
 Building:
-```> npm run compile```
+```
+> npm run compile
+```
 
 Testing:
-```> npm test```
+```
+> npm test
+```
 
 Quick testing (no code changes, just test changes):
-```> npm run test-quick```
+```
+> npm run test-quick
+```
 
 Clean testing (npm install before testing and remove node_modules folder after testing):
-```> npm run test-clean```
+```
+> npm run test-clean
+```
 
 Push all code changes, create new tag, and publish new NPM version (with and without cleaning):
 ```
