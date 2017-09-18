@@ -3,7 +3,7 @@ This module provides a quick-start boilerplate for creating an NPM module.
 
 # Setup
 ```
-> npm clone https://github.com/DaemonAlchemist/atp-npm-module.base .
+> npm clone https://github.com/DaemonAlchemist/atp-npm-module-base.git .
 > npm run init
 ```
 
